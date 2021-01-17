@@ -7,6 +7,7 @@
     "@rails/ujs": "^6.0.0",
     "@rails/webpacker": "5.2.1",
     "bootstrap": "^4.5.3",
+    "cocoon": "github:nathanvda/cocoon#c24ba53",
     "jquery": "^3.5.1",
     "popper.js": "^1.16.1",
     "roboto-fontface": "^0.10.0",

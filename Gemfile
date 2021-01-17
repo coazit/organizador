@@ -21,11 +21,13 @@ gem 'jbuilder', '~> 2.7'
 # gem 'redis', '~> 4.0'
 # Use Active Model has_secure_password
 # gem 'bcrypt', '~> 3.1.7'
-
 gem 'hamlit'
 gem 'simple_form'
 gem 'annotate'
 gem 'rails-i18n'
+gem 'devise'
+gem 'cocoon'
+gem 'cancancan'
 
 
 # Use Active Storage variant
@@ -49,7 +51,7 @@ group :development do
   gem 'rack-mini-profiler', '~> 2.0'
   gem 'listen', '~> 3.3'
   # Spring speeds up development by keeping your application running in the background. Read more: https://github.com/rails/spring
-  gem 'spring'
+  #gem 'spring'
   gem 'hamlit-rails'
 end
 
